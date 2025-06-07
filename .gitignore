@@ -2,13 +2,11 @@
 
 # secrets
 .env
-/api/firebase_sa.json
 
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
-/api/vendor/
 
 # testing
 /coverage
@@ -31,6 +29,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 *storybook.log
-.env
-/api/vendor/
-/api/firebase_sa.json
